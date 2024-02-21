@@ -1,0 +1,7 @@
+To run the discord spammer, first extract the zip to a file and then, moe the "Spammer.vbs"
+file to your desktop. After that open the "Copy this text before starting" txt file and copy
+all the text (there are exactly 2000charecters, whichy is the maximum message without discord
+nitro) After that, open discord and go to the chat you want that spam, then hold down the
+windows key and press R on the keyboard, then type Spammer.vbs in the box and click enter.
+After clicking enter, quicly switch back to typing in the discord chat and it will spam the
+once a second for one minute. 
